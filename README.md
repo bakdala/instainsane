@@ -8,3 +8,9 @@ git clone https://github.com/thelinuxchoice/instainsane
 4  chmod +x install.sh
 5  sudo ./install.sh
 ![fe79df6e-4495-43d8-b5a5-5c4344117919](https://user-images.githubusercontent.com/102995696/161637210-f193e6cd-213f-442a-91c2-3dab2075ccd6.jpg)
+How it works?
+Script uses an Android ApkSignature to perform authentication in addition using TOR instances to avoid blocking. The script uses Instagram-py algorithm (Python), see the project at: https://github.com/antony-jr/instagram-py Thanks to: @antony-jy https://github.com/antony-jr
+
+Donate!
+Support the authors:
+
